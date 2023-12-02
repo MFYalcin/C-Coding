@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings version="1.0">
+	<category name="dictionary.c">
+		<category name="Window">
+			<property name="Left" type="integer">4294967283</property>
+			<property name="Top" type="integer">4294967238</property>
+			<property name="Right" type="integer">2612</property>
+			<property name="Bottom" type="integer">1287</property>
+			<property name="Maximized" type="integer">1</property>
+			<property name="Active" type="integer">1</property>
+		</category>
+	</category>
+	<category name="main.c">
+		<category name="Window">
+			<property name="Left" type="integer">343</property>
+			<property name="Top" type="integer">343</property>
+			<property name="Right" type="integer">2395</property>
+			<property name="Bottom" type="integer">1298</property>
+			<property name="Maximized" type="integer">0</property>
+			<property name="Active" type="integer">0</property>
+		</category>
+	</category>
+	<category name="dictionary.h">
+		<category name="Window">
+			<property name="Left" type="integer">294</property>
+			<property name="Top" type="integer">294</property>
+			<property name="Right" type="integer">2346</property>
+			<property name="Bottom" type="integer">1249</property>
+			<property name="Maximized" type="integer">0</property>
+			<property name="Active" type="integer">0</property>
+		</category>
+	</category>
+</settings>
